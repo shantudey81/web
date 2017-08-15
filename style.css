@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	background: url(../images/plastics.jpg)no-repeat;
+	background-size: cover;
+}
+
+
+.heading{
+	text-align: center;
+	color: red;
+	background-color: yellow;
+}
+
+.hello{
+		text-align: center;
+		color: green;
+		font-size: 20px;
+		background-color: skyblue;
+}
